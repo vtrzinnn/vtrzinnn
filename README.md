@@ -4,7 +4,7 @@
 
 Vitor Antonio Camillo, 21, Campo Largo! 👾
 
-> Front-End Developer with experience in their frameworks and familiar with agile methodologies.
+> Full Stack Developer with experience in frameworks and familiar with agile methodologies.
 
 `📚` Software Engeneering
 <br>
